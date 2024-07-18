@@ -1,6 +1,6 @@
 # InventoryApplication
 
-![GIF](https://github.com/nate51315/InventoryApplication/blob/master/InventoryApp.gif)
+![GIF](https://github.com/sanjaikrp/InventoryApplication/InventoryApp.gif) 
 
 ### Inventory Application
 This is a Windows Forms application written in C# with a MySQL back-end to manage inventory, orders, and sales records.
@@ -41,4 +41,4 @@ This section will help get the requirements for the app.
  
  
 ## License
-This project is licensed under MIT. Please see [LICENSE file](https://github.com/nate51315/InventoryApplication/blob/master/LICENSE)
+This project is licensed under MIT. Please see [LICENSE file](https://github.com/sanjaikrp/InventoryApplication/LICENSE)
