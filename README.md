@@ -41,4 +41,4 @@ This section will help get the requirements for the app.
  
  
 ## License
-This project is licensed under MIT. Please see [LICENSE file](https://github.com/sanjaikrp/InventoryApplication/blob/main/LICENSE)
+This project is licensed under MIT. Please see [LICENSE file](https://github.com/sanjaikrp/Inventory-Application/blob/main/LICENSE)
